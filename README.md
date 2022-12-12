@@ -18,6 +18,6 @@ Open terminal in directory where **manage** python file resides. And then execut
 Go to browser and hit following url -
 
     localhost:8000
-## Authors
+
 
  
